@@ -1,3 +1,3 @@
-# daniel_projects_and_studies
+# Projects and Studies
 
 Repositório onde incluirei todos os estudos realizados por mim
