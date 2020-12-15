@@ -1,3 +1,3 @@
 # Projects and Studies
 
-Repositório onde incluirei todos os estudos realizados por mim
+Repositório onde estão disponibilizados todos os estudos e projetos realizados por mim
